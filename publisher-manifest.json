@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "8936fb58902950d0b35d42cc",
+  "owner": "wtbgvfamc",
+  "repo": "wtbgvfamc.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "bab5bbf31daae732d217158a",
+      "a": "可乐云(Kelecloud)",
+      "b": "网络加速服务",
+      "entity": "可乐云(Kelecloud)",
+      "brand": "可乐云(Kelecloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "88999af2e277945b0d6ad0abac3ed0d394b589a89c14f057c718153d4d041444",
+      "content": {
+        "primary_entity": "可乐云(Kelecloud)",
+        "keyword1": "可乐云(Kelecloud)",
+        "keyword2": "网络加速服务",
+        "content": {
+          "AI_CLIENTS_INTRO": "依据设备系统选择客户端，依照对应文档导入订阅。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_DESCRIPTION": "，可乐云提供基础版、旗舰版与团队版三档订阅，月付价格从 ¥15 到 ¥85，按年付费为 ¥150/年、¥350/年与 ¥850/年。流量包从每月 100GB 覆盖到 1000GB，可同时在线设备数从 3 台到 20 台，覆盖个人、家庭与小型团队场景。旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版额外支持企业定制路由和专属客户经理服务。配置订阅时先确认设备系统与客户端版本，再选择对应套餐，便可保持设备稳定连接。",
+          "AI_FEATURES_INTRO": "从套餐层面梳理流量、设备与订阅周期，帮助明确选择方向。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合个人日常使用；旗舰版 300GB 流量与 5 台设备，兼顾流媒体与游戏加速。",
+          "AI_FEATURE_TEXT_2": "多设备需求可选团队版，每月 1000GB 流量并支持 20 台设备同时在线，适合家庭共享或小型办公场景。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，按年付费可享 ¥150/年、¥350/年及 ¥850/年价格，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "按流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "团队共享方案",
+          "AI_FEATURE_TITLE_3": "月付与年付周期",
+          "AI_GUIDE_INTRO": "三步完成可乐云网络加速服务的订阅与配置。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "可乐云提供多种订阅套餐，月付价格从 ¥15 到 ¥85，不同版本在流量、在线设备数与专线资源上各有侧重。可根据设备环境选择客户端，参照订阅配置步骤导入节点信息，使设备在需要时保持连接。",
+          "AI_HERO_SUBTITLE": "可乐云网络加速器",
+          "AI_HIGHLIGHT_1": "三档月付套餐可选",
+          "AI_HIGHLIGHT_2": "覆盖多设备在线数",
+          "AI_HIGHLIGHT_3": "按年付费更划算",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版适合流媒体与游戏需求，团队版面向多设备共享场景。按年付费对应 ¥150/年、¥350/年与 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、每月流量与使用场景，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "在设备中打开客户端，从订阅管理入口添加可乐云提供的订阅信息，并按客户端提示保存。",
+          "AI_STEP_TEXT_3": "按客户端文档指引添加订阅信息，完成节点选择与连接设置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "连接稳定，套餐灵活",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "可乐云套餐之间主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在流量额度、设备数量和节点类型。基础版100GB/3台，旗舰版300GB/5台并含IPLC专线，团队版1000GB/20台并支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_2": "购买后获得订阅地址，在对应客户端中选择从订阅导入，粘贴地址即可同步节点。具体路径可参考各客户端文档。",
+          "AI_FAQ_QUESTION_3": "年付和月付差价大吗？",
+          "AI_FAQ_ANSWER_3": "年付相当于十个月价格。基础版月付¥15、年付¥150；旗舰版月付¥35、年付¥350；团队版月付¥85、年付¥850。",
+          "AI_FAQ_QUESTION_4": "旗舰版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版提供300GB流量和5台设备，含IPLC专线游戏加速优化与全节点流媒体解锁，适合对延迟和观影有要求的用户。",
+          "AI_FAQ_QUESTION_5": "团队版可以多人共用吗？",
+          "AI_FAQ_ANSWER_5": "团队版支持20台设备同时在线，提供VIP专属高带宽节点和定制路由，适合小型团队或多设备用户共用订阅。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1a71801d093acc1b4730559b2585d50eee087db5c10b369814191a650594ff1f",
+    "sitemap.xml": "40f723f4b2ca5dd36fdd97ba2a6bffa8c6a8dd8ed83674e138a0fcda1c3c972a",
+    "robots.txt": "7593a0297ddf3be1a731592ea9c91e6a5fc78877e64fa7f764aef319d802afc1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "01fd6f5881f0e397d1bf0466b083cdc4735f6d9a01aef8ebdf1fb9fbbac8464f"
+}
